@@ -36,3 +36,9 @@ models:
     # Applies to all files under models/example/
     example:
       materialized: view
+models:
+  my_new_project:
+    # Applies to all files under models/example/
+    5x_interview_db:
+      materialized: view
+            
